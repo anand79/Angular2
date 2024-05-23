@@ -1,0 +1,104 @@
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.exe
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\appsettings.json
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.deps.json
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.runtimeconfig.json
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.pdb
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.AssemblyReference.cache
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.AssemblyInfoInputs.cache
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.AssemblyInfo.cs
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.CoreCompileInputs.cache
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.Up2Date
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\refint\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.pdb
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.genruntimeconfig.cache
+C:\Anand\centerbridge\Anand\ChessKey\ChessKey\ChessKey\obj\Debug\net7.0\ref\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.exe
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\appsettings.json
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.deps.json
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.runtimeconfig.json
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\ChessKey.pdb
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.AssemblyReference.cache
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.AssemblyInfoInputs.cache
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.AssemblyInfo.cs
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.CoreCompileInputs.cache
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.csproj.Up2Date
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\refint\ChessKey.dll
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.pdb
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ChessKey.genruntimeconfig.cache
+C:\Anand\centerbridge\Anand\ChessKey - Copy\ChessKey\ChessKey\obj\Debug\net7.0\ref\ChessKey.dll

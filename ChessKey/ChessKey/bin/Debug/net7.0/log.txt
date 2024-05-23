@@ -1,0 +1,370 @@
+[05/19/2024 09:49:09 -04:00 [Information] Start to explore "Bishop"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 09:49:09 -04:00 [Information] Finish explore "Bishop"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to explore "Pawn"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:09:15 -04:00 [Information] Finish explore "Pawn"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to explore "PAWN"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:10:10 -04:00 [Information] Finish explore "PAWN"  { SourceContext: "ChessKeypad.App.KeypadExplorer", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to explore "Queen"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/19/2024 10:20:20 -04:00 [Information] Finish explore "Queen"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to explore "Pawn"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 06:55:38 -04:00 [Information] Finish explore "Pawn"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to explore "Bishop"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:22:47 -04:00 [Information] Finish explore "Bishop"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:30:25 -04:00 [Information] Start to explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:01 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/20/2024 21:32:19 -04:00 [Information] Finish explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 12:12:36 -04:00 [Information] Finish explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to explore King  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:22:55 -04:00 [Information] Finish explore "King"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:24:21 -04:00 [Information] Start to explore King  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 15:24:21 -04:00 [Information] Finish explore "King"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:24:32 -04:00 [Information] Start to explore Bishop  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:24:32 -04:00 [Information] Finish explore "Bishop"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:24:38 -04:00 [Information] Start to explore Knight  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:24:38 -04:00 [Information] Finish explore "Knight"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to explore Knight  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:24 -04:00 [Information] Finish explore "Knight"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to explore Rook  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:27 -04:00 [Information] Finish explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to explore Bishop  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:27:34 -04:00 [Information] Finish explore "Bishop"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to explore Queen  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:34:36 -04:00 [Information] Finish explore "Queen"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to explore Rook  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 0, 0 ""1""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 0, 1 ""2""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 0, 2 ""3""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 1, 0 ""4""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 1, 1 ""5""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 1, 2 ""6""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 2, 0 ""7""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 2, 1 ""8""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 2, 2 ""9""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 3, 0 ""*""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 3, 1 ""0""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Start to navigate 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish navigating 3, 2 ""#""  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
+[05/21/2024 16:35:10 -04:00 [Information] Finish explore "Rook"  { SourceContext: "ChessKeypad.App.KeyNavigator", Application: "ChessKeypad" } 
